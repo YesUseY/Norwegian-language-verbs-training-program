@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654421874 source:c:\users\l'export solutions\desktop\programavimas\11. pamoka\kalba\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<locale>
+	<string>
+
